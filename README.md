@@ -1,9 +1,9 @@
-# 📃 Sobre
-# Calculadora em React
+# Calculadora-React 
 ## 🚀 Tecnologias Utilizadas
- * **React + Vite** 
+ * **React + Vite**
+ * **Hooks** 
  * **Tailwind UI** 
- * **Java Script**
+ * **JSX**
  * **Font-Awesome**
 #
 
