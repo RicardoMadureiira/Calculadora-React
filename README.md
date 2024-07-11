@@ -1,6 +1,7 @@
 # Calculadora-React 
 ## 🚀 Tecnologias Utilizadas
  * **React + Vite**
+ * Java Script
  * **Hooks** 
  * **Tailwind UI** 
 #
